@@ -1,0 +1,1 @@
+This is a package for reordering the rows and columns of matrices so that the matrix looks more pleasing to me.  Basic code usage can be found by looking at [the notebook](tutorial.ipynb) and the details of the thinking can be found in this [pdf](pleasing.pdf).
