@@ -118,7 +118,7 @@ Output Permutations
 \end_inset
 
  defined by 
-\begin_inset Formula $B_{ij}=A_{\sigma(i),\pi(m)}$
+\begin_inset Formula $B_{ij}=A_{\sigma(i),\pi(j)}$
 \end_inset
 
  appears pleasing to me.
@@ -666,8 +666,7 @@ Let
 \end_layout
 
 \begin_layout Standard
-We just repeat that process forever.
- We're left with 
+We just repeat that process until we're left with 
 \begin_inset Formula $R=\left(R_{1}\right)$
 \end_inset
 
